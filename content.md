@@ -6,7 +6,7 @@ The interview question surprise me.
 
 I'm a closet revolutionary.
 
-It sounded exhilirating to say it. I didn't quite know what it meant. But it felt right.  I was hired.  The interviewer told me a few months later that she hired me because she believed my answer.
+It sounded exhilirating to say it. I didn't quite know what it meant. But it felt right.  I was hired.  My manager told me a few months later that she hired me because she believed my answer.
 
 I've been trying to live up to that title ever since.
 
