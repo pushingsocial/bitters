@@ -4,9 +4,9 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'First Year' });
+  res.render('index', { title: 'Incredible' });
 };
 
 exports.about = function(req, res){
-	res.render('index', { title: 'About First Year'});
+	res.render('index', { title: 'About Incredible'});
 };
