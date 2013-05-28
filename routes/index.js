@@ -19,6 +19,6 @@ exports.about = function(req, res){
 * Get Book Page.
 */
 exports.book=function(req, res){
-	res.render('book', {title: 'The Fable'});
+	res.render('index', {title: 'The Fable'});
 };
 
