@@ -30,7 +30,8 @@ if ('development' == app.get('env')) {
 
 app.get('/', routes.index);
 app.get('/about', routes.about);
+app.get('/book', routes.book);
 
 http.createServer(app).listen(app.get('port'), function(){
-  console.log('Bitters is listening on port ' + app.get('port'));
+  console.log('Incredible is listening on port ' + app.get('port'));
 });
